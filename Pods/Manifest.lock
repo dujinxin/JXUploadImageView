@@ -1,0 +1,17 @@
+PODS:
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - TZImagePickerController (1.8.3)
+
+DEPENDENCIES:
+  - SDWebImage
+  - TZImagePickerController
+
+SPEC CHECKSUMS:
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  TZImagePickerController: 8c02d10822404b26c4330cdb79f2e46fb6a61473
+
+PODFILE CHECKSUM: e672ec5c1fd0dc8568cb40090e55141a91c338e5
+
+COCOAPODS: 1.2.1
